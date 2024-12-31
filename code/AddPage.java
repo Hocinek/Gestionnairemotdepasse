@@ -98,4 +98,5 @@ public class AddPage extends JPanel {
 
         backButton.addActionListener((ActionEvent e) -> mainPanel.showPage("HomePage"));
     }
+    
 }
